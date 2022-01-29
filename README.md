@@ -1,2 +1,2 @@
 My first TOP project.
-Creating a Recipies site using HTML
+Creating a Recipes site using HTML
